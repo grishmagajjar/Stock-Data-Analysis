@@ -24,3 +24,6 @@ o	Ploting using plotly for interactive graphs
 - Y finance API
 - Python and pandas
 - plotly for interactive dashboard
+
+<a href="https://au-syd.dai.cloud.ibm.com/analytics/notebooks/v2/debe7b79-c9d5-42c8-8972-8b04cee6e43a/view?access_token=be75d732b4d31daaea2176f5b59f47a34ef3ce57cbf88cbe55c8cb088f43f1e9&context=cpdaas">Link to Watson Studio Dashboard</a>
+
