@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/2d18abc4-5358-43b6-827d-42ed5080d5db)# Stock-Data-Analysis
+# Stock-Data-Analysis
 Stinfi is a new startup investment firm that helps customers invest their money in stocks.
 
 My job is to extract financial data like historical share price quarterly revenue reportings, Visualize it in a dashboard to identify patterns or trends.
