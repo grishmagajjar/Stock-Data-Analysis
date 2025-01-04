@@ -31,8 +31,8 @@ Used pandas for data manipulation and plotly for dashboard creation.
 Successfully created an interactive dashboard showcasing key stock trends, helping users make informed investment decisions.
 Provided actionable insights into stock performance patterns across Netflix, Apple, AMD, GameStop, and Tesla.
 Improved the firm’s ability to analyze stock data visually and present findings in a user-friendly manner.
-Tools Used:
 
+### Tools Used:
 IBM Watson Studio, Jupyter Notebook, Y Finance API, Python, Pandas, Plotly.
 Would you like a more detailed version or adjustments to specific sections?
 
