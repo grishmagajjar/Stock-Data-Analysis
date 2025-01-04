@@ -7,8 +7,9 @@ To accomplish this, I needed to:
 Extract relevant stock data for analysis.
 Create an interactive dashboard to visualize trends and patterns for the following stocks: Netflix, Apple, AMD, GameStop, and Tesla.
 Use Python and data visualization tools to deliver actionable insights.
-Action:
 
+
+## Action:
 ### Data Extraction:
 
 Installed essential Python libraries such as yfinance, matplotlib, and pandas for data extraction and manipulation.
