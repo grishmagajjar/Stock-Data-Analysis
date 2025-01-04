@@ -34,7 +34,6 @@ Improved the firm’s ability to analyze stock data visually and present finding
 
 ### Tools Used:
 IBM Watson Studio, Jupyter Notebook, Y Finance API, Python, Pandas, Plotly.
-Would you like a more detailed version or adjustments to specific sections?
 
 <a href="https://au-syd.dai.cloud.ibm.com/analytics/notebooks/v2/debe7b79-c9d5-42c8-8972-8b04cee6e43a/view?access_token=be75d732b4d31daaea2176f5b59f47a34ef3ce57cbf88cbe55c8cb088f43f1e9&context=cpdaas">Link to Watson Studio Dashboard</a>
 
